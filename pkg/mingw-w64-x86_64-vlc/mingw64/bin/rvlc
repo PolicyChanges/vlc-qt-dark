@@ -1,0 +1,2 @@
+#! /bin/sh
+exec /mingw64/bin/vlc -I "rc" "$@"
